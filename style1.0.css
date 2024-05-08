@@ -1,0 +1,40 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: serif;
+}
+.x{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 40px 20px 0 20px;
+}
+.x .y{
+  width: 50%;
+  padding-bottom: 50px;
+}
+.x .y h3{
+  color: #f08080;
+  font-size: 3em;
+  font-weight: bolder;
+  padding-bottom: 10px;
+ 
+}
+.x .y h3 span{
+  font-weight: 100;
+}
+
+}
+@media only screen and (max-width: 643px){
+.x .y{
+  width: 100%;
+}
+.x .y h3{
+  font-size: 1em;
+}
+}

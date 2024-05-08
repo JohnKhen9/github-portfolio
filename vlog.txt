@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TRAVEL VLOGS</title>
+</head>
+<body background="vlogback.jpeg">
+      
+      <a href="vlog2.mp4"><img src="vedio1.png" style="width:65vh;height:65vh";></a>
+      <a href="vlog3.mp4"><img src="vedio2.png" style="width:65vh;height:65vh";></a>
+       <a href="vlog4.mp4"><img src="vedio3.png" style="width:65vh;height:65vh";></a>
+</body>
+</html>
